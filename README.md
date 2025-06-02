@@ -53,7 +53,7 @@ Edit file `index.html` sesuai kebutuhan Anda. Anda dapat mengganti teks, gambar,
 
 ## 🧪 Contoh Tampilan
 
-![Preview](https://raw.githubusercontent.com/RamaFounderNCS/cplnel.host2go.net/main/preview.png)
+![Preview](screenshot.jpg)
 
 ---
 
