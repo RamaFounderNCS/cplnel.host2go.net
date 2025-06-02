@@ -53,7 +53,7 @@ Edit file `index.html` sesuai kebutuhan Anda. Anda dapat mengganti teks, gambar,
 
 ## 🧪 Contoh Tampilan
 
-![Preview](screenshot.jpg)
+![Preview](view.jpg)
 
 ---
 
