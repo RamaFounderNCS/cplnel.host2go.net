@@ -81,7 +81,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 Untuk pertanyaan atau diskusi lebih lanjut:
 
-- 💬 Telegram: [@RamaFounderNCS](https://t.me/RamaFounderNCS)
+- 💬 Telegram: [@RamaFounderNCS](https://t.me/sumoonid)
 - 🌐 Situs Web: [cplnel.host2go.net](https://cplnel.host2go.net)
 
 ---
